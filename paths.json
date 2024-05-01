@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/eds-cloud-sites/:/",
+    "/content/eds-cloud-sites/configuration:/.helix/config.json"
   ]
 }
