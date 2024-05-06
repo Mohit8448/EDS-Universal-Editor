@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/eds-cloud-sites/:/",
+    "/content/edge-delivery-sites/:/",
     "/content/eds-cloud-sites/configuration:/.helix/config.json"
   ]
 }
